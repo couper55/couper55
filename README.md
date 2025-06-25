@@ -11,5 +11,5 @@ I'm a software developer passionate about AI, data science, and web development.
 - 📊 [Subscription Churn Predictor](https://github.com/yourusername/churn-predictor)
 
 ## 📫 Reach Me At
-- Email: your@email.com
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourusername)
+- Email: ar.mahajan3005@gmail.com
+- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/alpesh-mahajan/)

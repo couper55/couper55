@@ -12,4 +12,4 @@ I'm a software developer passionate about AI, data science, and web development.
 
 ## 📫 Reach Me At
 - Email: ar.mahajan3005@gmail.com
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/alpesh-mahajan/)
+- LinkedIn: [alpesh-mahajan](https://www.linkedin.com/in/alpesh-mahajan/)

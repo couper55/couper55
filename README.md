@@ -7,8 +7,8 @@ I'm a software developer passionate about AI, data science, and web development.
 - 🌐 Frameworks: React, Node.js, TensorFlow
 
 ## 📌 Projects
-- 🚀 [Skin Cancer Detector](https://github.com/yourusername/skin-cancer-detector)
-- 📊 [Subscription Churn Predictor](https://github.com/yourusername/churn-predictor)
+- 🚀 [Celebrity Lookalike Classifier](https://github.com/couper55/Celebrity-Image-Classifier)
+- 📊 [Recipe Lookup](https://github.com/couper55/streamlit-recipe)
 
 ## 📫 Reach Me At
 - Email: ar.mahajan3005@gmail.com

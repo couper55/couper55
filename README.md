@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Alpesh!
+I'm a software developer passionate about AI, data science, and web development.
 
-<!--
-**couper55/couper55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Skills
+- 💻 Languages: Python, JavaScript, C++
+- ⚙️ Tools: Git, Docker, VSCode
+- 🌐 Frameworks: React, Node.js, TensorFlow
 
-Here are some ideas to get you started:
+## 📌 Projects
+- 🚀 [Skin Cancer Detector](https://github.com/yourusername/skin-cancer-detector)
+- 📊 [Subscription Churn Predictor](https://github.com/yourusername/churn-predictor)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach Me At
+- Email: your@email.com
+- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourusername)
